@@ -3,3 +3,4 @@ AKANG RESOLUSI
 - Latiahan html
 - Latihan css
 - Latihan js 
+- Harus bisa android

@@ -1,7 +1,6 @@
 - Membuat video js
- > video vue js
- > video react js
- > video jquery
+  > Video vue js
+  > video react js
 - Membuat vidoe framework
  > video laravel
 - Membuat video js mobile

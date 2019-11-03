@@ -4,4 +4,5 @@
 - Membuat vidoe framework
  > video laravel
 - Membuat video js mobile
+ > Membuat app android with jquery mobile
 - Membuat video php 
